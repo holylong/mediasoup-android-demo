@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">oupaoguonai</string>
+    <string name="start_player_service">开始播放</string>
+    <string name="stop_player_service">停止播放</string>
+</resources>
