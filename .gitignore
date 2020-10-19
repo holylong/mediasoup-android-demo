@@ -1,3 +1,4 @@
+
 # Created by https://www.gitignore.io/api/macos,android,androidstudio
 # Edit at https://www.gitignore.io/?templates=macos,android,androidstudio
 
@@ -222,3 +223,6 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.gitignore.io/api/macos,android,androidstudio
+
+# VisualStudioCode files
+.vscode/
