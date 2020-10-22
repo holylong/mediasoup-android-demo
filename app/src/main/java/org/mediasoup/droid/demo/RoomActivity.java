@@ -106,7 +106,8 @@ public class RoomActivity extends AppCompatActivity {
     mOptions.setForceTcp(preferences.getBoolean("forceTcp", false));
 
     // Device config.
-    String camera = preferences.getString("camera", "front");
+    //String camera = preferences.getString("camera", "front");
+    String camera = preferences.getString("camera", "back");
     PeerConnectionUtils.setPreferCameraFace(camera);
 
     // Display version number.
